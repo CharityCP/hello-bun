@@ -1,0 +1,3 @@
+#Codex Level 2 README assignment
+This project allows me to learnt he setup of my git bash and how to
+navigate my folders using the keyboard.
