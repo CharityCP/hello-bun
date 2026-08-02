@@ -18,6 +18,11 @@ This project allows me to learn  the setup of my git bash and how to navigate my
 -Debugging
 -Project Development
 
+## Fun Facts
+- I enjoy learning Git and Github.
+- My favorite animal is a White Tiger.
+- I like listening to music while coding.
+
 #### Final Joke
 Why do programmers like dark mode?
 Because lights attract bugs!
